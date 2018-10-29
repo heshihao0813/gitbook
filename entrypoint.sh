@@ -1,5 +1,5 @@
 #!/bin/sh
 
-cp -Rf /docs/* /gitbook
+ln -sFf /plugins/node_modules /docs/node_modules
 
 exec "$@"
