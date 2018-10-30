@@ -5,6 +5,7 @@ Docker container of gitbook-cli with plugins.
 ## Plugins Included
 
 * [katex](https://plugins.gitbook.com/plugin/katex)
+* [katex-plus](https://plugins.gitbook.com/plugin/katex-plus)
 * [mathjax](https://plugins.gitbook.com/plugin/mathjax)
 
 ## Usage
