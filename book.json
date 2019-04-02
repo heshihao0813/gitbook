@@ -3,6 +3,9 @@
     "advanced-emoji",
     "katex",
     "katex-plus",
-    "mathjax"
+    "mathjax",
+    "mermaid-gb3",
+    "flowchart-full@>=1.1.2",
+    "js-sequence-diagram-full@>=0.3.1"
   ]
 }

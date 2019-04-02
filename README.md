@@ -4,9 +4,13 @@ Docker container of gitbook-cli with plugins.
 
 ## Plugins Included
 
+* [advanced-emoji](https://plugins.gitbook.com/plugin/advanced-emoji)
 * [katex](https://plugins.gitbook.com/plugin/katex)
 * [katex-plus](https://plugins.gitbook.com/plugin/katex-plus)
 * [mathjax](https://plugins.gitbook.com/plugin/mathjax)
+* [mermaid-gb3](https://plugins.gitbook.com/plugin/mathjax)
+* [flowchart-full](https://plugins.gitbook.com/plugin/flowchart-full)
+* [js-sequence-diagram-full](https://plugins.gitbook.com/plugin/js-sequence-diagram-full)
 
 ## Usage
 
